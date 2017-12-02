@@ -15,7 +15,7 @@
 
 
 -----------------------------------
-####      Files Submited       ####
+###       Files Submited        ###
 -----------------------------------
 		1) results.py
 		2) stats.py
@@ -30,9 +30,9 @@
 
 
 
---------------------------------------------------------------------
-###################      EXECUTION DETAILS        ##################
---------------------------------------------------------------------
+---------------------------------------
+###        EXECUTION DETAILS        ###
+---------------------------------------
 		In results.py we have modified the code (We have reduced the data set to 10000 posts) to make it run in considerable amount of time in the local PCs
 
 		The results we presented were on larger dataset. To run on larger dataset please uncomment respective parts in results.py file. To compute on larger dataset we ran on IITH GPU server. 
@@ -41,7 +41,7 @@
 
 
 ------------------------------------------------------------
-##############       REQUIREMENTS       ####################
+###      REQUIREMENTS       ###
 ------------------------------------------------------------
 		1.  sklearn
 		2.  pandas
@@ -65,9 +65,9 @@ Full dataset is available on:
 Data set : https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction
 
 
------------------------------------------------------
-############      How to run     ####################
------------------------------------------------------
+-----------------------------
+###      How to run     ###
+-----------------------------
 1.) To get precision, recall values run the following command on terminal using python2
 		python2 results.py
 
