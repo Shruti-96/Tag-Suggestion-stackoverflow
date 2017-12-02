@@ -1,0 +1,30 @@
+############### Start #################
+
+Adding to Database ....
+Finished ...
+
+# of row in the dataset used : 10000
+
+# of col in the dataset used : 1
+
+Tokenizing the tags to get their counts and stats ....
+
+Number of unique tags = 6124
+
+ Writing to unique_tags_count.csv file ...
+
+28 Tags are used more than 100 times
+
+Maximum number of tags per question: 5
+
+Minimum number of tags per question: 1
+
+Avg. number of tags per question: 2.916892
+
+Ploting Histogram for tags.....
+
+Ploting Done .....
+
+Ploting Top 10 tags.....
+
+Ploting Done .....
